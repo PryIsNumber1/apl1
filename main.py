@@ -11,6 +11,7 @@ from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
 import threading
 import requests
 
+
 def resource_path(relative_path):
     try:
         base_path = sys._MEIPASS
